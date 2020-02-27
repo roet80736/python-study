@@ -1,3 +1,3 @@
 from selenium import webdriver
-browser = webdriver.chrome()
+browser = webdriver.Chrome()
 browser.get('http://www.baidu.com/')
